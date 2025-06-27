@@ -1,23 +1,6 @@
 
 # Detection of Plant Disease
 
-<div align="center">
-
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
-<a href="https://github.com/kashish-ag/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease"><img src="https://img.shields.io/badge/PR's%3F-Welcomed-brightgreen.svg?v=103"></a>
-
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease/watchers"><img src="https://img.shields.io/github/watchers/kashish-ag/Detection-of-Plant-Disease?style=flat"></a> 
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease/graphs/contributors"><img src="https://img.shields.io/github/contributors/kashish-ag/Detection-of-Plant-Disease?color=brightgreen"></a>
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease/stargazers"><img src="https://img.shields.io/github/stars/kashish-ag/Detection-of-Plant-Disease?color=0059b3"></a>
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease/network/members"><img src="https://img.shields.io/github/forks/kashish-ag/Detection-of-Plant-Disease?color=yellow"></a>
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease/issues"><img src="https://img.shields.io/github/issues/kashish-ag/Detection-of-Plant-Disease?color=0059b3"></a>
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/kashish-ag/Detection-of-Plant-Disease?color=yellow"></a>
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease/pulls"><img src="https://img.shields.io/github/issues-pr/kashish-ag/Detection-of-Plant-Disease?color=brightgreen"></a>
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/kashish-ag/Detection-of-Plant-Disease?color=0059b3"></a> 
-</div>
 <p align=center>
 <img src="https://user-images.githubusercontent.com/74819092/124498690-63afb280-ddda-11eb-8a50-10ec7d46db44.png" hieght=400, width=400>
 </p>
@@ -98,32 +81,7 @@ git push origin '<your_branch_name>'
 
 <br>
 
-## 📌 Opensource Programs
-
-### This project is a part of following Open Source Program
-<br>
-
-<table style="width:80%;background-color:white;border-radius:30px;">
-    <tr>
-  <td>
-<center>
-  <a href="https://letsgrowmore.in/projects/"><img src="https://letsgrowmore.in/wp-content/uploads/2021/05/cropped-growmore-removebg-preview.png"></img></a>
-  </center>
-  </td>
-  </tr>
-</table>
-    <hr>
-
 ## Useful Links
 
 1. The PlantVillage dataset paper can be found [here](https://arxiv.org/abs/1511.08060).
 
-
-## License:
-
-<p align="center">
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease/blob/main/LICENSE">
-<img width=35% src="https://media.tenor.com/images/68ecdcb63296f1db6532bf5b83051da9/tenor.gif"></p>
-<h5 align="center"><b>MIT License</b></a> 
-
-<br>
