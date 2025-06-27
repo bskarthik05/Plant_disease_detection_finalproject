@@ -119,37 +119,6 @@ git push origin '<your_branch_name>'
 1. The PlantVillage dataset paper can be found [here](https://arxiv.org/abs/1511.08060).
 
 
-<hr>
-
-<br>
-
-## Project Admin👨‍:
-
-
-<p align="center">
-<a href="https://github.com/kashish-ag"><img src="https://avatars.githubusercontent.com/u/72383661?v=4" width=150px height=150px /></a></br> 
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/kashishag19/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<hr>
-
-## ✨Our valuable Contributors :
-<br>
-
-<table >
-	<tr>
-		<td >
-			<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kashish-ag/Detection-of-Plant-Disease" />
-</a>
-		</td>
-	</tr>
-</table>
-
-<hr>
-
-
 ## License:
 
 <p align="center">
@@ -158,20 +127,3 @@ git push origin '<your_branch_name>'
 <h5 align="center"><b>MIT License</b></a> 
 
 <br>
-
-## 📜 Code Of Conduct:
-<p align="center">
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease/blob/main/CODE_OF_CONDUCT.md">
-<img width=35% src="https://c.tenor.com/xeHd9DDYS1cAAAAM/jack-nicholson-who-cares.gif"></p>
-<h5 align="center"><b>Click to read</b></a>  
-
-<!-- You can find our Code of Conduct [here](https://github.com/kashish-ag/Detection-of-Plant-Disease/blob/main/CODE_OF_CONDUCT.md). -->
-
- <hr>
-
- <p align="center">
-<a href="https://github.com/kashish-ag/Detection-of-Plant-Disease" title="Woodog Github">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    
-</a>
-</p>
